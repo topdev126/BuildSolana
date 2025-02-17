@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.aaed346b.css",
-    "main.js": "/static/js/main.0dc53aac.js",
+    "main.js": "/static/js/main.dee1511c.js",
+    "static/media/KOLsOnline.png": "/static/media/KOLsOnline.7b036d6996c1c9261fea.png",
     "index.html": "/index.html",
     "main.aaed346b.css.map": "/static/css/main.aaed346b.css.map",
-    "main.0dc53aac.js.map": "/static/js/main.0dc53aac.js.map"
+    "main.dee1511c.js.map": "/static/js/main.dee1511c.js.map"
   },
   "entrypoints": [
     "static/css/main.aaed346b.css",
-    "static/js/main.0dc53aac.js"
+    "static/js/main.dee1511c.js"
   ]
 }
